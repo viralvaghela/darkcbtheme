@@ -2,7 +2,7 @@
     "name": "darkcbtheme",
     "displayName": "darkcbtheme",
     "description": "Hello coders,try this new theme by coding boy",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "viralvaghela",
     "keywords": [
         "darkcbtheme",
@@ -26,6 +26,13 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/darkcbtheme-color-theme.json"
             }
-        ]
+        ],
+        "iconThemes": [
+            {
+              "id": "darkcbtheme",
+              "label": "darkcbtheme",
+              "path": "https://raw.githubusercontent.com/viralvaghela/darkcbtheme/main/icon.png"
+            }
+          ]
     }
 }
