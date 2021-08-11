@@ -1,0 +1,21 @@
+{
+    "name": "darkcbtheme",
+    "displayName": "darkcbtheme",
+    "description": "Hello coders,try this new theme by coding boy",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "darkcbtheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/darkcbtheme-color-theme.json"
+            }
+        ]
+    }
+}
