@@ -3,6 +3,16 @@
     "displayName": "darkcbtheme",
     "description": "Hello coders,try this new theme by coding boy",
     "version": "0.0.1",
+    "author": "viralvaghela",
+    "keywords": [
+        "darkcbtheme",
+        "darktheme",
+        "Dark coding theme",
+        "dark",
+        "codingboy"
+    ],
+    "repository": "https://github.com/viralvaghela/darkcbtheme",
+    "publisher": "viralvaghela",
     "engines": {
         "vscode": "^1.59.0"
     },
