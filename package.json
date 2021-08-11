@@ -1,9 +1,10 @@
 {
     "name": "darkcbtheme",
-    "displayName": "darkcbtheme",
+    "displayName": "Dark CB theme",
     "description": "Hello coders,try this new theme by coding boy",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author": "viralvaghela",
+    "icon": "icon.png",
     "keywords": [
         "darkcbtheme",
         "darktheme",
@@ -22,7 +23,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "darkcbtheme",
+                "label": "Dark CB Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/darkcbtheme-color-theme.json"
             }
