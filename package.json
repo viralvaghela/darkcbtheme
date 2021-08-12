@@ -2,7 +2,7 @@
     "name": "darkcbtheme",
     "displayName": "Dark CB theme",
     "description": "Hello coders,try this new theme by coding boy",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "author": "viralvaghela",
     "icon": "icon.png",
     "keywords": [
@@ -10,7 +10,9 @@
         "darktheme",
         "Dark coding theme",
         "dark",
-        "codingboy"
+        "codingboy",
+        "dark cb theme",
+        "codingboy theme"
     ],
     "repository": "https://github.com/viralvaghela/darkcbtheme",
     "publisher": "viralvaghela",

@@ -2,7 +2,7 @@
 	"name": "DarkCBtheme",
 	"type": "dark",
 	"colors": {
-		"editor.foreground": "#8a31df",
+		"editor.foreground": "#ad71e6e5",
 		"focusBorder": "#1f212b",
 		
 		"foreground": "#ffffff",
@@ -308,7 +308,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#2711e9"
+				"foreground": "#417ae6"
 			}
 		},
 		{
